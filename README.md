@@ -1,5 +1,7 @@
 <img alt="head banner" width="auto" src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg" />
 <h1 align="center">Hi 👋, I'm Bismark Boateng</h1>
+<h3 align="center"> Software Developer </h3>
+<hr>
 <div align="center">A devoted backend developer with a dash of frontend expertise, constantly expanding my area of expertise. In addition to studying DSA and working on projects, I'm also obtaining a bachelor's degree in computer engineering.</div>
 <img align="right" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif image" />
 
