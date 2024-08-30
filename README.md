@@ -1,6 +1,6 @@
 # Hola 😊
 
-I'm a full stack web and mobile developer on a journey to build the next [Company]... I guess 😄.
+I'm a full stack web and mobile developer on a journey to build the next Facebook.. I guess 😄.
 Before that, though, I build SaaS products in public. Here are some of the tools I work with on a dialy basis;
 
 - **Next.js** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
